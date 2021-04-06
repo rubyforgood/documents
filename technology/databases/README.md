@@ -20,6 +20,6 @@ Use DB which fits best into project profile, usually SQL general purpose DB is r
 
 PostreSQL is first recommendation for general purpose SQL database
 
-Use it unless you ahve strong case why to use anything else
+Use it unless you have a strong case why to use anything else.
 
 [Official website](https://www.postgresql.org/) | [Docker Hub](https://hub.docker.com/_/postgres)
